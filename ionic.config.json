@@ -1,6 +1,6 @@
 {
   "name": "appsidemenu",
-  "app_id": "",
+  "app_id": "900ddc42",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
